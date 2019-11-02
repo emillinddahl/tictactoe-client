@@ -1,6 +1,6 @@
   Project name                 : TicTacToe game
 
-  Students                     : Asmus Andresen, Daniel Theisen, Emil Linddahl, Marc Petersen, Scott Naylor
+  Students                     : Asmus Andresen, Daniel Thiesen, Emil Linddahl, Marc Petersen, Scott Naylor
   Group	                       : 308
   Course                       : Programming of Complex Software Systems
   Link to client repository    : https://github.com/emillinddahl/tictactoe-client
