@@ -6,6 +6,7 @@
   Link to client repository    : https://github.com/emillinddahl/tictactoe-client
   Link to server repository    : https://github.com/emillinddahl/tictactoe-server
   Link to scrum repository     : https://github.com/AsmusEgNielsonAndresen2018/PCSS2019-2020
+  Scrum backlog included in Scrum folder of client and server repositories.
 ______________________________________________________________________________________________________________________________________________________
 
 The folder contains:
@@ -25,7 +26,7 @@ The folder contains:
 ______________________________________________________________________________________________________________________________________________________
 
 Installation of Eclipse:
-to run this server, Eclipse is needed on given computer
+To run this game, Eclipse is needed on the computer
 it can be downloaded from their website by following the link below
 Link for Eclipse : https://www.eclipse.org/downloads/
 
@@ -43,9 +44,16 @@ Change the name of the java run configuration to 'client' and find the project l
 Then tell the Main class to be 'Client', just the project name.
 
 
-Testing server and clients:
+Playing the game:
 To run both server and clients at the same time, two session of Eclipse with two different workshops running 
 is needed. First run the server and once a windows pops up, the server is running. afterward start two clients,
 where the first one will be X and the second one will be O. To run multiple session of TicTacToe, keep the 
 server running and run more clients. 
+
+Communication protocol: TCP. 
+
+
+Reference/Inspiration:
+Introduction to Java Programming and Data Structures, Comprehensive Version (10th Edition) Y. Daniel Liang.
+Page 1156 - Page 1168
  
