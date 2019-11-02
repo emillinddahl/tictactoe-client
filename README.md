@@ -1,4 +1,4 @@
-  Project name                 : TicTacToe online game
+  Project name                 : TicTacToe game
 
   Students                     : Asmus Andresen, Daniel Theisen, Emil Linddahl, Marc Petersen, Scott Naylor
   Group	                       : 308
